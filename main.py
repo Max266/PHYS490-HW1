@@ -6,9 +6,6 @@ import random
 import json
 import os
 import sys
-import json
-import os
-import sys
 
 DataQ1 = open(sys.argv[1], "r")
 Datajson = open(sys.argv[2], "r")
